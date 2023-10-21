@@ -26,4 +26,4 @@ Use A or Left Arrow for LEFT Use D or Right Arrow for RIGHT
 
 ## If you want to support me :)
 
-https://www.buymeacoffee.com/app/payout-settings
+https://www.buymeacoffee.com/Kregai
