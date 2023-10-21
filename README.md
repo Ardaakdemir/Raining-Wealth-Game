@@ -23,3 +23,7 @@ Use A or Left Arrow for LEFT Use D or Right Arrow for RIGHT
 ![Lose_Screen](https://github.com/Ardaakdemir/Raining-Wealth-Game/blob/main/Screenshots/Lose.png)
 
 ![Win_Screen](https://github.com/Ardaakdemir/Raining-Wealth-Game/blob/main/Screenshots/Win.png)
+
+## If you want to support me :)
+
+https://www.buymeacoffee.com/app/payout-settings
