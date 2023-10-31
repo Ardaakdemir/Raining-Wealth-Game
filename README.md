@@ -1,5 +1,5 @@
 # Raining-Wealth-Game
-
+# You Can Play From Here !
 ## Description
 
 Welcome to Raining Wealth ! everytime you collect you will gain 10 points and everytime you miss you will lost 50 points . If you press Escape while in game you can restart, have fun !
