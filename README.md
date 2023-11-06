@@ -18,13 +18,13 @@ Use A or Left Arrow for LEFT Use D or Right Arrow for RIGHT
 
 ![Ingame](https://github.com/Ardaakdemir/Raining-Wealth-Game/blob/main/Screenshots/Ingame.png)
 
-## If you want to support me :)
-
-https://www.buymeacoffee.com/Kregai
+# If you want to support me :) https://www.buymeacoffee.com/Kregai
 
 ![Pause_Menu](https://github.com/Ardaakdemir/Raining-Wealth-Game/blob/main/Screenshots/Pause.png)
 
 ![Lose_Screen](https://github.com/Ardaakdemir/Raining-Wealth-Game/blob/main/Screenshots/Lose.png)
 
 ![Win_Screen](https://github.com/Ardaakdemir/Raining-Wealth-Game/blob/main/Screenshots/Win.png)
+
+# If you want to support me :) https://www.buymeacoffee.com/Kregai
 
